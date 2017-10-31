@@ -1,0 +1,2 @@
+# CollectionViewDemo
+TableView是垂直方向排版,而CollectionView是高级的TableView可以实现横向排版。主要设置主轴方向即可
